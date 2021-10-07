@@ -1,0 +1,12 @@
+// app global css in SCSS form
+body {
+  background: #f3f3f3;
+}
+.my-shadow {
+  box-shadow: 0 10px 140px 0 rgb(130 136 171 / 30%);
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1000px;
+}
