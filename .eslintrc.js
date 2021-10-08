@@ -53,6 +53,7 @@ module.exports = {
 
   // add your custom rules here
   rules: {
+    "linebreak-style": 0,
     'max-len': 'off',
     'no-param-reassign': 'off',
     'no-void': 'off',
