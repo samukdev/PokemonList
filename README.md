@@ -1,7 +1,6 @@
 # Vue Pokedex (vuepoke)
-
-
-
+<h1><a href="https://pokedex-iota-beryl.vercel.app/#/">Click here</a> to visit the Live Project.</h1>
+<img src="https://samukdev.github.io/PokemonList/docs/mockup/mockup.png" />
 ## Install the dependencies
 ```bash
 yarn
